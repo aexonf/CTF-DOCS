@@ -1,0 +1,68 @@
+{
+  "CreatedByVersion": "2.0.8.1",
+  "Schedule": null,
+  "Backup": {
+    "ID": "26",
+    "Name": "pwned",
+    "Description": "",
+    "Tags": [],
+    "TargetURL": "file:///source/home/marcus/",
+    "DBPath": "/config/AWFVXLECNV.sqlite",
+    "Sources": [
+      "/source/root/root.txt"
+    ],
+    "Settings": [
+      {
+        "Filter": "",
+        "Name": "encryption-module",
+        "Value": "",
+        "Argument": null
+      },
+      {
+        "Filter": "",
+        "Name": "compression-module",
+        "Value": "zip",
+        "Argument": null
+      },
+      {
+        "Filter": "",
+        "Name": "dblock-size",
+        "Value": "50mb",
+        "Argument": null
+      },
+      {
+        "Filter": "",
+        "Name": "--no-encryption",
+        "Value": "true",
+        "Argument": null
+      }
+    ],
+    "Filters": [],
+    "Metadata": {
+      "LastBackupDate": "20240825T091022Z",
+      "BackupListCount": "1",
+      "TotalQuotaSpace": "8350261248",
+      "FreeQuotaSpace": "2258087936",
+      "AssignedQuotaSpace": "-1",
+      "TargetFilesSize": "1961",
+      "TargetFilesCount": "3",
+      "TargetSizeString": "1.92 KB",
+      "SourceFilesSize": "33",
+      "SourceFilesCount": "1",
+      "SourceSizeString": "33 bytes",
+      "LastBackupStarted": "20240825T091022Z",
+      "LastBackupFinished": "20240825T091022Z",
+      "LastBackupDuration": "00:00:00.3523360",
+      "LastCompactDuration": "00:00:00.0011050",
+      "LastCompactStarted": "20240825T091022Z",
+      "LastCompactFinished": "20240825T091022Z",
+      "LastRestoreDuration": "00:00:00.1340530",
+      "LastRestoreStarted": "20240825T091048Z",
+      "LastRestoreFinished": "20240825T091049Z"
+    },
+    "IsTemporary": false
+  },
+  "DisplayNames": {
+    "/source/root/root.txt": "root.txt"
+  }
+}

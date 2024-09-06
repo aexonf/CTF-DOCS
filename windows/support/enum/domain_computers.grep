@@ -1,0 +1,2 @@
+cn	sAMAccountName	dNSHostName	operatingSystem	operatingSystemServicePack	operatingSystemVersion	lastLogon	userAccountControl	whenCreated	objectSid	description
+DC	DC$	dc.support.htb	Windows Server 2022 Standard		10.0 (20348)	09/05/24 15:27:43	SERVER_TRUST_ACCOUNT, TRUSTED_FOR_DELEGATION	05/28/22 11:03:43	S-1-5-21-1677581083-3380853377-188903654-1000	

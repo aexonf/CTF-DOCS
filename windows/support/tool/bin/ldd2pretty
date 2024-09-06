@@ -1,0 +1,3 @@
+#!/home/aexon/Desktop/ctf-main/ctf-docs/CTF/hackthebox/windows/support/tool/bin/python3.12
+from ldapdomaindump import pretty
+pretty.main()
