@@ -1,0 +1,41 @@
+# Dirsearch started Fri Sep  6 20:52:18 2024 as: /usr/bin/dirsearch -u http://10.10.10.14/
+
+403    32B   http://10.10.10.14/%2e%2e//google.com
+403    32B   http://10.10.10.14/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+404     1KB  http://10.10.10.14/.ashx
+404     1KB  http://10.10.10.14/.asmx
+404     1KB  http://10.10.10.14/.axd
+403    32B   http://10.10.10.14/\..\..\..\..\..\..\..\..\..\etc\passwd
+403     1KB  http://10.10.10.14/_private
+403     1KB  http://10.10.10.14/_private/
+403   218B   http://10.10.10.14/_vti_bin/
+301   155B   http://10.10.10.14/_vti_bin    -> REDIRECTS TO: http://10.10.10.14/%5Fvti%5Fbin/
+200   195B   http://10.10.10.14/_vti_bin/_vti_adm/admin.dll
+200   195B   http://10.10.10.14/_vti_bin/_vti_aut/author.dll
+200    96B   http://10.10.10.14/_vti_bin/shtml.dll
+200    96B   http://10.10.10.14/_vti_bin/shtml.exe?_vti_rpc
+404   103B   http://10.10.10.14/_vti_cnf/
+403     1KB  http://10.10.10.14/_vti_log
+403     1KB  http://10.10.10.14/_vti_log/
+403     1KB  http://10.10.10.14/_vti_pvt
+500   112B   http://10.10.10.14/_vti_pvt/administrator.pwd
+500   112B   http://10.10.10.14/_vti_pvt/
+500   112B   http://10.10.10.14/_vti_pvt/authors.pwd
+403     1KB  http://10.10.10.14/_vti_cnf
+403     1KB  http://10.10.10.14/_vti_txt
+403     1KB  http://10.10.10.14/_vti_txt/
+404   103B   http://10.10.10.14/_vti_pvt/service.pwt
+404   103B   http://10.10.10.14/_vti_pvt/service.pwd
+404   103B   http://10.10.10.14/_vti_pvt/users.pwd
+404   103B   http://10.10.10.14/_vti_pvt/shtml.exe
+200     2KB  http://10.10.10.14/_vti_inf.html
+500   112B   http://10.10.10.14/_vti_pvt/administrators.pwd
+500   112B   http://10.10.10.14/_vti_pvt/users.pwt
+403   218B   http://10.10.10.14/aspnet_client
+403   218B   http://10.10.10.14/aspnet_client/
+403    32B   http://10.10.10.14/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+404     1KB  http://10.10.10.14/elmah.axd
+301   149B   http://10.10.10.14/images    -> REDIRECTS TO: http://10.10.10.14/images/
+403   218B   http://10.10.10.14/images/
+200     2KB  http://10.10.10.14/postinfo.html
+404     1KB  http://10.10.10.14/service.asmx
